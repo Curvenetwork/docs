@@ -68,11 +68,11 @@
 ## Links
 
 * [Discord](https://discord.com)
-* [Facebook](https://www.facebook.com/)
-* [GitHub](https://github.com/lloydgalley)
+* [Facebook](https://m.facebook.com/CurveNetwork)
+* [GitHub](https://github.com/Curvenetwork)
 * [LinkedIn](https://www.linkedin.com/company/)
-* [Medium](https://medium.com)
-* [Telegram](https://t.me/)
+* [Medium](https://thecurvenetwork.medium.com/)
+* [Telegram](https://t.me/Curvenetworkannouncement)
 * [Twitter](https://twitter.com/)
-* [YouTube](https://www.youtube.com)
+* [Website](https://curvenetwork.io)
 <!-- * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549) -->
