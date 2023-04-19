@@ -1,0 +1,24 @@
+# Curve Mainnet
+
+### General Information
+
+| Block size | Block speed | Gas price | Patchset | Native token | Network ID |
+| ---------- | ----------- | --------- | -------- | ------------ | ---------- |
+| 20,000,000 | 9 seconds   | 0 GWei    |          | CURVE          |      651940 |
+
+* Network name: **Curve**
+* ChanId: **651940**
+* Gas price: **0 gwei**
+* RPC
+  * official RPC: [https://mainnet-rpc.curvescan.io/](https://mainnet-rpc.curvescan.io/)​
+* Explorer: [http://curvescan.io/](http://curvescan.io/)​
+
+Please refer to [https://github.com/Curvenetwork/CurveCoinNetwork/tree/master/node-example](https://github.com/Curvenetwork/CurveCoinNetwork/tree/master/node-example) if you wish to run your own node.
+
+### Blockchain explorer
+
+**Curve Explorer** is the official blockchain explorer for Curve. With this full-featured, open-source explorer you can view transactions, accounts & balances, access data via the API, and read and verify smart contracts.
+
+{% embed url="https://curvescan.io" %}
+
+###
