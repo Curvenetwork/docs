@@ -12,22 +12,7 @@
     * [Delegation through Staking with Validators](general/learn-about-the-fuse-platform/fuse-network-blockchain/validators-and-delegation.md)
     * [Ethereum (EVM) Compatibility and Smart Contracts](general/learn-about-the-fuse-platform/fuse-network-blockchain/ethereum-compatibility-and-smart-contracts.md)
     * [Boosting Curve's Scalability](general/learn-about-the-fuse-platform/fuse-network-blockchain/scaling-l2-payments.md)
-  * [Curve Token (CURVE)](general/learn-about-the-fuse-platform/fuse-token/README.md)
-    * [CURVE Tokenomics](general/learn-about-the-fuse-platform/fuse-token/fuse-tokenomics.md)
-    * [Exchanges, Wallets, On-Ramps and DeFi Tools Supporting CURVE](general/learn-about-the-fuse-platform/fuse-token/exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md)
-    * [CURVE on Other Chains](general/learn-about-the-fuse-platform/fuse-token/fuse-on-other-chains.md)
-  * [Interoperability](general/learn-about-the-fuse-platform/interoperability.md)
-  * [Curve Governance and Development](general/learn-about-the-fuse-platform/fuse-governance-and-development/README.md)
-    * [Curve Assembly](general/learn-about-the-fuse-platform/fuse-governance-and-development/fuse-assembly.md)
-    * [Curve Improvement Proposals (FIPs)](general/learn-about-the-fuse-platform/fuse-governance-and-development/fips.md)
-  * [Wallets supporting Curve](general/learn-about-the-fuse-platform/wallets-supporting-fuse-network.md)
-* [Curve for Business](general/fuse-for-business.md)
-* [Things you can do on Curve](general/things-you-can-do-on-fuse/README.md)
-  * [Interacting with the Curve Blockchain](general/things-you-can-do-on-fuse/interacting-with-the-fuse-network-blockchain.md)
-  * [Curve Ecosystem](general/things-you-can-do-on-fuse/fuse-ecosystem.md)
-  * [Community](general/things-you-can-do-on-fuse/community.md)
-  * [Grants and Bounties](general/things-you-can-do-on-fuse/grants-and-bounties.md)
-* [Curve Mobile Infrastructure Use Cases](general/use-cases.md)
+  * [Curve Token (CURVE)](general/learn-about-the-fuse-platform/fuse-token.md)
 
 ## Developers <a href="#general" id="general"></a>
 

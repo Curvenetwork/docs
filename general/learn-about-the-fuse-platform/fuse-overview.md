@@ -1,6 +1,6 @@
 # Curve Overview: vision, strategy and platform components
 
-Curve is a decentralized blockchain-powered platform and technology stack whose goal is to enable genuine mass adoption of crypto payments and decentralized finance (DeFi).
+Curve is a Layer-1 network with lightning-fast, Secure, Low Carbon & Scalable blockchain economy.
 
 ### The Problem
 
