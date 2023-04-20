@@ -3,8 +3,8 @@
 ### Mainnet
 
 * Network name: **CURVE**
-* ChanId: **651940**
-* Gas price: **0 gwei**
+* ChanId: **827431**
+* Gas price: 1.5 **gwei**
 * RPC
   * official RPC: [https://mainnet-rpc.curvescan.io/](https://mainnet-rpc.curvescan.io/)​
 * Explorer: [http://curvescan.io/](http://curvescan.io/)​
