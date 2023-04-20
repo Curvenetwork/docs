@@ -6,8 +6,8 @@ The basic requirement to become a Curve chain validator is to have a stake amoun
 
 There are two options to stake (both should be called from the address which would be the validator)
 
-1. 1.Send Curve tokens to the [consensus contract](https://curvescan.io/address/0xC50Ca7Ead738F5501F5EF88F6015d7F09D238F95) - 0xC50Ca7Ead738F5501F5EF88F6015d7F09D238F95 on the fuse network.
-2. 2.Call the \`stake\` function on the [consensus contract](https://curvescan.io/address/0xC50Ca7Ead738F5501F5EF88F6015d7F09D238F95) - 0xC50Ca7Ead738F5501F5EF88F6015d7F09D238F95 on the fuse network.
+1. 1.Send Curve tokens to the [consensus contract](https://curvescan.io/address/0xC50Ca7Ead738F5501F5EF88F6015d7F09D238F95) - 0xC50Ca7Ead738F5501F5EF88F6015d7F09D238F95 on the curve network.
+2. 2.Call the \`stake\` function on the [consensus contract](https://curvescan.io/address/0xC50Ca7Ead738F5501F5EF88F6015d7F09D238F95) - 0xC50Ca7Ead738F5501F5EF88F6015d7F09D238F95 on the curve network.
 
 ## Delegate <a href="#delegate" id="delegate"></a>
 

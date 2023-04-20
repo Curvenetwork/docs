@@ -1,2 +1,0 @@
-# Ethereum ↔ Curve GoodDollar Token
-
