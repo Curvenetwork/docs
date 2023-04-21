@@ -4,13 +4,12 @@
 
 | Block size | Block speed | Gas price | Patchset | Native token | Network ID |
 | ---------- | ----------- | --------- | -------- | ------------ | ---------- |
-| 20,000,000 | 3 seconds   | 1,5 GWei  |          | CURVE        | 651940     |
+| 20,000,000 | 3 seconds   | 1,5 GWei  |          | CURVE        | 827431     |
 
 * Network name: **Curve**
-* ChanId: **827431**
+* ChainId: **827431**
 * Gas price: 1.5 **gwei**
-* RPC
-  * official RPC: [https://mainnet-rpc.curvescan.io/](https://mainnet-rpc.curvescan.io/)​
+* official RPC: [https://mainnet-rpc.curvescan.io/](https://mainnet-rpc.curvescan.io/)​
 * Explorer: [http://curvescan.io/](http://curvescan.io/)​
 
 ### Blockchain explorer

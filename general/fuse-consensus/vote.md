@@ -40,8 +40,6 @@ Voting is done by calling the \`vote\` function, which receives two params:
 
 ![vote](../../.gitbook/assets/image.png)
 
-
-
 Some other useful functions on the [voting contract](https://curvescan.io/address/0x4cA1361FBC851f6861d4FC270F0b27F55Ea427d5) are:
 
 ## getQuorumState
