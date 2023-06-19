@@ -20,10 +20,6 @@
 * [Resources & Tools](general/resources-and-tools/README.md)
   * [TheGraph](general/resources-and-tools/thegraph.md)
   * [WalletConnect on Curve](general/resources-and-tools/walletconnect-on-fuse.md)
-* [Important smart contracts](general/important-smart-contracts/README.md)
-  * [Curve Token](general/important-smart-contracts/curve-token.md)
-  * [Curve Dollar](general/important-smart-contracts/curve-dollar.md)
-  * [Major Deployed Contracts](general/important-smart-contracts/major-deployed-contracts.md)
 * [How to become a validator](general/how-to-become-a-validator/README.md)
   * [Getting started as a validator](general/how-to-become-a-validator/getting-started-as-a-validator.md)
 
